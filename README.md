@@ -1,2 +1,4 @@
 # hello-world
-learn github using guides.github.com
+=================================
+
+I'm having fun doing this!
